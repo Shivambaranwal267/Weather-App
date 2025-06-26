@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="json2javaPersistentSettings">
+    <option name="useLombok" value="false" />
+    <option name="useNumber" value="false" />
+    <option name="overrideToString" value="false" />
+    <option name="overrideEqualsAndHash" value="false" />
+  </component>
+</project>

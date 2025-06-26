@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="getWeatherByLocation">Get Weather By Location</string>
+    <string name="getWeatherByCityName">Get Weather By City Name</string>
+    <string name="enterCityName">Enter City Name</string>
+</resources>
