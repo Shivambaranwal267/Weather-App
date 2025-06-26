@@ -1,7 +1,6 @@
 package com.example.weatherapp.view;
 
 import android.annotation.SuppressLint;
-
 import android.content.Context;
 import android.location.LocationListener;
 import android.location.LocationManager;
